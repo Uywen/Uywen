@@ -12,9 +12,11 @@
 
 -CSS
 
--REACT JS
+-React jS
 
--MONGO DB
+-Mongo DB
+
+-Next js
 
 - 📫 How to reach me email: uywenafrica27@gmail.com
 
