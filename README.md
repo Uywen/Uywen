@@ -1,8 +1,10 @@
+# About Me
+
 - 👋 Hi, I’m @Uywen
 - 
-- 👀 I’m a Full Stack Web Developer
+- 👀 I’m an aspiring full stack web developer
 - 
--Tech Stack:
+# Skills
 
 -Javascript
 
@@ -18,7 +20,14 @@
 
 -Next js
 
-- 📫 How to reach me email: uywenafrica27@gmail.com
+# 📫 How to reach me:
+
+# Linkedin
+https://www.linkedin.com/in/uywen-africa-124b8a268/
+
+# Email
+
+uywenafrica27@gmail.com
 
 <!---
 Uywen/Uywen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
