@@ -20,6 +20,8 @@
 
 -Next js
 
+-GIT
+
 # 📫 How to reach me:
 
 # Linkedin
